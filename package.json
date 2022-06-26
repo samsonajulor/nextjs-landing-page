@@ -10,6 +10,11 @@
     "postbuild": "next-sitemap"
   },
   "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.8.5",
+    "@mui/styled-engine-sc": "^5.8.0",
     "framer-motion": "^2.7.5",
     "next": "9.5.3",
     "next-compose-plugins": "^2.2.0",
@@ -25,6 +30,7 @@
     "react-scroll": "^1.8.0",
     "react-stickynode": "^3.0.3",
     "react-waypoint": "^9.0.2",
+    "styled-components": "^5.3.5",
     "swiper": "^6.3.1",
     "theme-ui": "^0.3.1",
     "typeface-dm-sans": "^1.1.3"
